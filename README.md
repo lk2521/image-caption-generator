@@ -33,3 +33,8 @@ To set up the project, follow these steps:
 
 ## License
 * This project is licensed under the MIT License.
+
+## Improvement
+* **Larger Dataset Integration**: Incorporating a more extensive dataset of approximately 100,000 images and their respective captions could profoundly enhance the model's accuracy and diversity in generating captions.
+
+* **Extended Training Epochs**: Extending the number of epochs beyond the current 10 iterations during the model training phase would likely yield improved performance, refining the model's ability to generate more accurate and nuanced captions.
